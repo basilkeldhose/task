@@ -1,0 +1,23 @@
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  #alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  #success{
+    padding: 20px;
+    background-color:#249424; /* Green */
+    color: white;
+    margin-bottom: 15px;
+  }
+  label.validation-message{
+    color:#ed5558;
+  }
